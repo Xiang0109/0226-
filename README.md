@@ -1,3 +1,5 @@
+## 實習課第一題
+```C
 #include <stdio.h>
 int main()
 {
